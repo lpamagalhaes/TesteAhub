@@ -1,5 +1,4 @@
 Eh um inseto que transmite doencas pela picada.
 Tem ação diurna e noturna.
 Reproduz-se rapidamente.
-Possui asas comuns a insetos.
 Tem vida curta.
