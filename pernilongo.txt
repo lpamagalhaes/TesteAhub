@@ -2,3 +2,4 @@ Eh um inseto que transmite doencas pela picada.
 Tem ação diurna e noturna.
 Reproduz-se rapidamente.
 Tem vida curta.
+Teste1 adicionado
